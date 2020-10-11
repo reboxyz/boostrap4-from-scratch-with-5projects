@@ -1,0 +1,48 @@
+
+Udemy - Bootstrap 4 From Scratch With 5 Projects
+By: Brad Traversy  (Completed)
+
+1 - 1, 2, 3, 4, 5
+2 - 1, 2, 3, 4, 5, 6, 7, 8, 
+3 
+4
+5 
+6 - 1, 2, 3, 4
+7 - 1, 2, 3, 4, 5, 6
+8 - 1, 2, 3, 4, 5, 6, 7
+9 - 1, 2, 3, 4, 5, 6, 9
+10 - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+11 - 1, 2, 3, 4, 5, 6
+
+
+
+https://github.com/bradtraversy/bs4starter   Note! This is not working anymore
+https://www.pexels.com/     				Free Images
+https://deepyellow.net/mockups/			Poster and Mockups
+http://ashleydw.github.io/lightbox/                 Image Effects
+http://lorempixel.com/560/560/business       Random Images
+https://kenwheeler.github.io/slick/                  Alternative to Carousel
+
+Responsive Notes:
+a. <div class="col-md-8 d-none d-md-block">
+     
+Explanation: The div has column medium 8 and not displayed by default. However, when the display is medium, it will display as block using the “d-md-block” class
+
+b. <div class="col-lg-6 col-sm-12">
+         <img src="img/book.png" class="img-fluid hidden-md-down" alt="">
+    </div>
+
+Explanation: The image tag will be hidden if the display is medium or below using the “hidden-md-down” class
+
+c.  <ul class="navbar-nav ml-auto">
+
+Explanation:  “ml-auto” or margin-left is automatic will push the item to the right.
+   
+
+
+
+
+
+
+    
+
